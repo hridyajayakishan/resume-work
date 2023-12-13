@@ -1,0 +1,136 @@
+.container{
+    width: 400%;
+    height: 1500px;
+    /* margin: 25px 50px 75px 100px; */
+    background-color: lightgrey;
+    padding: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    /* padding: 50px; */
+    padding-left: 20px;
+    
+}
+
+
+.row{
+    width: 35%;
+    height: 1200px;
+    border: 1px solid black;
+    /* margin: 25px 50px 75px 100px; */
+    background-color: white;
+    
+    
+    
+    
+    
+    
+}
+.row1{
+    width: 65%;
+    height: 700px;
+    border: 1px solid black;
+    /* margin: 25px 50px 75px 100px; */
+    padding: 30px;
+    background-color: white;
+    /* padding-left: 20px; */
+    margin-left: 30px;
+  
+    
+    
+    
+}
+.row2{
+    width: 65%;
+    height: 500px;
+    border: 1px solid black;
+    /* margin: 25px 50px 75px 100px; */
+    background-color: white;
+    padding: 20px;
+    
+}
+.container-fluid{
+    height: 100px;
+}
+.content{
+    padding: 20px;
+    color: dimgrey;
+}
+.skill{
+    padding: 20px;
+}
+.language{
+    padding: 20px;
+}
+.heading{
+   
+    color: grey;
+    
+}
+.skill1{
+    color: dimgrey;
+}
+.skill2{
+    color: dimgrey;
+}
+.skill3{
+    color: dimgrey;
+}
+.skill4{
+    color: dimgrey;
+}
+.lang1{
+    color: dimgrey;
+}
+.lang2{
+    color: dimgrey;
+}
+.lang3{
+    color:dimgrey;
+}
+.language{
+    color: grey;
+    
+}
+.d1{
+    color: rgb(61, 161, 61);
+}
+.d2{
+    color: rgb(61, 161, 61);
+}
+.d3{
+    color: rgb(61, 161, 61);
+}
+
+.fa-solid{
+    color: rgb(61, 161, 61);
+
+}
+.fa-brands{
+    color: rgb(61, 161, 61);
+
+}
+.head{
+    font-family: 'Nunito', sans-serif;
+    padding: 20px;
+    color: dimgrey;
+}
+.college{
+    font-family: 'Nunito', sans-serif;
+    color: dimgray;
+}
+.p22{
+    font-family: 'Nunito', sans-serif;
+    color: dimgray;
+    
+}
+.head22{
+    font-family: 'Nunito', sans-serif;
+    color: dimgray;
+
+}
+.head33{
+    font-family: 'Nunito', sans-serif;
+    color: dimgray;
+
+
+}
